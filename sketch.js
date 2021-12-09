@@ -85,7 +85,7 @@ function spawnObstaclesTop()
     //generate random top obstacles
     //var rand = Math.round(random(0,1));
     //var rand = random(1,2);
-   // var rand = Math.round(random(1,2));
+    var rand = Math.round(random(1,2));
 //var rand=roundoff(random(1,2))
 
     switch(rand) {
